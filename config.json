@@ -1,0 +1,18 @@
+{
+  "detection": {
+    "min_samples": 30,
+    "speed_threshold": 0.6,
+    "required_consecutive": 5,
+    "cooldown": 5.0
+  },
+  "network": {
+    "safe_ports": [80, 443, 53, 22, 3389]
+  },
+  "process": {
+    "safe_patterns": [
+      "migration/\\d+",
+      "python\\d*",
+      "systemd.*"
+    ]
+  }
+}
