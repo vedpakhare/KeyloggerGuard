@@ -17,6 +17,6 @@ Advanced keylogger detection system with behavioral analysis and process monitor
 ## Installation
 
 ```bash
-git clone https://github.com/jackmarquina/KeyloggerGuard.git
+git clone https://github.com/vedpakhare/KeyloggerGuard.git
 cd KeyloggerGuard
 pip install -r requirements.txt
