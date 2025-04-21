@@ -1,0 +1,6 @@
+pynput>=1.7.6
+psutil>=5.9.0
+pywin32>=305; sys_platform == 'win32'
+keyboard
+scapy
+requests
