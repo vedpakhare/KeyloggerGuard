@@ -37,9 +37,9 @@ python keylogger_detector.py
 ```
 
 
-##License 
+## 📄 License 
 This project is licensed under the MIT License.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Made with 💻 + 🛡️ by Ved Pakhare
 
